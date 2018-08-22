@@ -1,4 +1,6 @@
 ## Development Status
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fkristakhare%2Fmoney.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fkristakhare%2Fmoney?ref=badge_shield)
+
 We are actively working on version 0.9 that will offer several improvements over both the API and module 
 implementations.  0.8.x is being used in several projects currently, and we will continue to enhance
 0.8.x for the foreseeable future while 0.9 work takes place.
@@ -143,3 +145,7 @@ Add a dependency as follows for maven:
 
 ## User Guide
 [Money Documentation](https://github.com/Comcast/money/wiki)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fkristakhare%2Fmoney.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fkristakhare%2Fmoney?ref=badge_large)
